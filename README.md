@@ -1,1 +1,1 @@
-# VectOp
+Sum of vectors
