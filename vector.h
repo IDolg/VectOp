@@ -3,3 +3,5 @@ struct vector{
 };
 
 struct vector sum(struct vector v1,  struct vector v2);
+
+struct vector subtraction(struct vector v1,  struct vector v2);
