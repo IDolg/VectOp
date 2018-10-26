@@ -1,1 +1,1 @@
-Sum of vectors
+operations with vectors
